@@ -6068,8 +6068,21 @@ NEW 4/5/2025
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 ff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJvXooj.jpeg" group-title="OLAHRAGA | UFC", UK: TNT Sports 1 HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/495258.ts
+#EXTINF:-1 tvg-id="" tvg-logo=""https://i.imgur.com/ZJvXooj.jpeg" group-title="OLAHRAGA | UFC",TNTSPORT1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tntsport1.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="GB : TNT SPORTS 01" tvg-logo=""https://i.imgur.com/ZJvXooj.jpeg" group-title="OLAHRAGA | UFC",GB : TNT SPORTS 01
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258595
+
+
+===
+#EXTINF:-1 tvg-id="" tvg-logo=""https://i.imgur.com/ZJvXooj.jpeg" group-title="OLAHRAGA | UFC",TNTSPORT2
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tntsport2.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="GB : TNT SPORTS 02" tvg-logo=""https://i.imgur.com/ZJvXooj.jpeg" group-title="OLAHRAGA | UFC",GB : TNT SPORTS 02
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258600
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -7756,6 +7769,15 @@ https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tntsport1.m3u8
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="GB : TNT SPORTS 01" tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title=BOLA | SERIE A",GB : TNT SPORTS 01
 http://hardcoremedia.xyz:80/fadkjokz/4950078150/258595
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A",TNTSPORT2
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tntsport2.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="GB : TNT SPORTS 02" tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A",GB : TNT SPORTS 02
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258600
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A",ArenaPremium1
 https://wahyu1ptv.pages.dev/ArenaPremium1-HD.m3u8
 
@@ -7887,21 +7909,21 @@ https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8
 #EXTINF:-1 tvg-id="ElevenSport3" tvg-logo="https://i.imgur.com/TPT3YVW.jpeg" group-title="BOLA | UEFA NATIONS LEAGUE",072. ElevenSport3
 https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8
 
-#EXTINF:0 tvg-id="TNT 1" tvg-logo="https://i.imgur.com/TPT3YVW.jpeg" group-title="BOLA | UEFA NATIONS LEAGUE",TNT SPORTS 1 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TPT3YVW.jpeg" group-title="BOLA | UEFA NATIONS LEAGUE",TNTSPORT1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tntsport1.m3u8
 
-#EXTINF:0 tvg-id="TNT 2" tvg-logo="https://i.imgur.com/TPT3YVW.jpeg" group-title="BOLA | UEFA NATIONS LEAGUE",TNT SPORTS 2 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="GB : TNT SPORTS 01" tvg-logo="https://i.imgur.com/TPT3YVW.jpeg" group-title="BOLA | UEFA NATIONS LEAGUE",GB : TNT SPORTS 01
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258595
+
+
+===
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TPT3YVW.jpeg" group-title="BOLA | UEFA NATIONS LEAGUE",TNTSPORT2
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tntsport2.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="GB : TNT SPORTS 02" tvg-logo="https://i.imgur.com/TPT3YVW.jpeg" group-title="BOLA | UEFA NATIONS LEAGUE",GB : TNT SPORTS 02
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258600
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TPT3YVW.jpeg" group-title="BOLA | UEFA NATIONS LEAGUE",067. ArenaPremium1
 https://wahyu1ptv.pages.dev/ArenaPremium1-HD.m3u8
@@ -8052,21 +8074,21 @@ https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8
 #EXTINF:-1 tvg-id="ElevenSport3" tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="BOLA | UEFA EROPA LEAGUE",072. ElevenSport3
 https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8
 
-#EXTINF:0 tvg-id="TNT 1" tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="BOLA | UEFA EROPA LEAGUE",TNT SPORTS 1 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="BOLA | UEFA EROPA LEAGUE",TNTSPORT1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tntsport1.m3u8
 
-#EXTINF:0 tvg-id="TNT 2" tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="BOLA | UEFA EROPA LEAGUE",TNT SPORTS 2 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="GB : TNT SPORTS 01" tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="BOLA | UEFA EROPA LEAGUE",GB : TNT SPORTS 01
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258595
+
+
+===
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="BOLA | UEFA EROPA LEAGUE",TNTSPORT2
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tntsport2.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="GB : TNT SPORTS 02" tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="BOLA | UEFA EROPA LEAGUE",GB : TNT SPORTS 02
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258600
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="BOLA | UEFA EROPA LEAGUE",067. ArenaPremium1
 https://wahyu1ptv.pages.dev/ArenaPremium1-HD.m3u8
@@ -8184,8 +8206,21 @@ https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8
 #EXTINF:-1 tvg-id="ElevenSport3" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="BOLA | UEFA CHAMPIONS LEAGUES",072. ElevenSport3
 https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="BOLA | UEFA CHAMPIONS LEAGUES",063. TNTSports1
-https://wahyu1ptv.pages.dev/TNTSports1-HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg" group-title="BOLA | UEFA CHAMPIONS LEAGUES ",TNTSPORT1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tntsport1.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="GB : TNT SPORTS 01" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg" group-title="BOLA | UEFA CHAMPIONS LEAGUES",GB : TNT SPORTS 01
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258595
+
+
+===
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg" group-title="BOLA | UEFA CHAMPIONS LEAGUES ",TNTSPORT2
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tntsport2.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="GB : TNT SPORTS 02" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg" group-title="BOLA | UEFA CHAMPIONS LEAGUES ",GB : TNT SPORTS 02
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258600
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="BOLA | UEFA CHAMPIONS LEAGUES",067. ArenaPremium1
 https://wahyu1ptv.pages.dev/ArenaPremium1-HD.m3u8
