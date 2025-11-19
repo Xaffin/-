@@ -5195,6 +5195,13 @@ GAYA HIDUP
 #EXTINF:-1 tvg-id="HGTVAsia.us" tvg-name="HGTVAsia.us" tvg-chno="HGTVAsia.us" tvg-logo="https://i.imgur.com/k8RQgiu.jpeg" group-title="GAYA HIDUP", HGTV US
 https://bit.ly/hgtvhgtv
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="HGTV.id" tvg-name="HGTV" tvg-logo="https://i.imgur.com/k8RQgiu.jpeg" group-title="GAYA HIDUP",HGTV INDO
+https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mediampd/HGTVHD.mpd
+https://i.mjh.nz/.r/discovery-hgtv.m3u8
+
 #EXTINF:-1 tvg-id="foodnetwork.bg" tvg-name="ID: Asian FOOD Network HD" tvg-logo="https://i.imgur.com/k8RQgiu.jpeg" group-title="GAYA HIDUP",ID: AFN Asian FOOD Network HD
 http://filex.me:8080//live/Qasim1990/1990qasim/302207.ts
 
