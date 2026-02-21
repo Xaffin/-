@@ -5420,6 +5420,13 @@ https://otte.live.fly.ww.aiv-cdn.net/IAD/clients/dash/enc/fuumlkaqoa/out/v1/a8db
 #KODIPROP:inputstream.adaptive.license_key={"50a71b1ce9eb116cd7bd98a946d71109":"08b8b340baeebca12ef50a52c6ec1d1d"}
 https://a191aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/xocfcvmh5j/out/v1/844e15e5a0bd40c48a5a39ba08d2cd50/cenc.mpd
 
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png" group-title="DUNIA | AMERIKA NON SUB",TNT (PXL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyJSO2iA8oqrCm7aKbssPYac/.m3u8
+
+
 
 
 =========
