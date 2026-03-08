@@ -3583,8 +3583,10 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 
 ===========
 ===========
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.imgur.com/xtbagd5.jpeg",Mentari TV
-https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/5.ts
+
+#EXTINF:-1 xui-id="118" tvg-id="" tvg-name="MENTARI TV" tvg-logo="https://i.imgur.com/xtbagd5.jpeg" group-title="NASIONAL", MENTARI TV
+https://spmid.net:443/play/MyEoo-x6p53nRakGbj5NBh5dWTd_lq48vH8_gJXkwQ4
+
 
 
 
@@ -3911,6 +3913,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mediampd/CartoonitoH
 
 #EXTINF:-1 group-title="ANAK" tvg-logo="https://i.imgur.com/sLaNQYS.jpeg",Mentari TV
 https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/5.ts
+
+#EXTINF:-1 xui-id="118" tvg-id="" tvg-name="MENTARI TV" tvg-logo="https://i.imgur.com/sLaNQYS.jpeg" group-title="ANAK", MENTARI TV
+https://spmid.net:443/play/MyEoo-x6p53nRakGbj5NBh5dWTd_lq48vH8_gJXkwQ4
 
 
 
