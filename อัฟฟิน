@@ -6006,6 +6006,91 @@ https://cdn10jtedge.indihometv.com/atm/DASH//thrill/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YxDN47W.jpeg" group-title="GAYA HIDUP", THRILL
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 
+=== INI VERSI 2nya ====
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AUrp3P2.png" group-title="GAYA HIDUP", HGTV ✅
+http://202.169.224.202:8800/udp/239.9.1.3:1234
+
+#EXTINF:-1 tvg-id="hgtv" tvg-logo="https://i.imgur.com/AUrp3P2.png" group-title="GAYA HIDUP",HGTV (US) ✅
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://mega.z5cable.com/bpk-tv/hgtv_hd/default/index.mpd
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/AUrp3P2.png" group-title="GAYA HIDUP",HGTV (US2) ✅
+http://84.17.50.102/hgtv/index.m3u8
+
+#EXTINF:-1 tvg-id="Asian Food Network.id" tvg-name="Asian Food Network.id" tvg-logo="https://i.imgur.com/vFXFKJy.png" group-title="GAYA HIDUP",AFN ✅
+https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mediampd/AFNHD.mpd
+
+#EXTINF:-1 tvg-name=" tvg-logo="https://i.imgur.com/Qdq2V20.png" group-logo="https://i.imgur.com/Qdq2V20.png" group-title="GAYA HIDUP", This Old House (AG) ✅
+https://content.uplynk.com/channel/778dfa39720b47d5ab6de27ee3cf81b7.m3u8
+
+#EXTINF:-1 tvg-id="LifestyleandFashion.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/neWMOy3.png" group-title="GAYA HIDUP",Hanacaraka TV (AG) ✅
+https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BEdX7dr.png" group-title="GAYA HIDUP",JOWO TV OK ✅
+https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8
+
+#EXTINF:-1 tvg-id="Celebrities TV - [Channel 96].id" tvg-logo="https://i.imgur.com/f3GHA3y.png" group-title="GAYA HIDUP",CelebritiesTV (AG) ✅
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
+
+#EXTINF:-1 tvg-id="VisionPrime.id" tvg-logo="https://i.imgur.com/J1vItCX.png" group-title="GAYA HIDUP",Vision Prime (AG) ✅
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
+
+#EXTINF:-1 tvg-id="FoodTravel.id" tvg-logo="https://i.imgur.com/DGNM3Pa.png" group-title="GAYA HIDUP", Food Travel (AG) ✅
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
+
+#EXTINF:-1 tvg-id="ONE.id" tvg-logo="https://i.imgur.com/5dmMedN.png" group-title="GAYA HIDUP",ONE ✅
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
+
+#EXTINF:-1 group-title="GAYA HIDUP" tvg-logo="https://i.imgur.com/WKctpvd.png",Arirang ✅
+https://cdn10jtedge.indihometv.com/atm/DASH/ARIRANG/manifest.mpd
+
+#EXTINF:-1 tvg-id="AXN.id" tvg-logo="https://i.imgur.com/DpxDrki.png" group-title="GAYA HIDUP",AXN 1 ✅
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
+
+#EXTINF:-1 tvg-id="AXN.id" tvg-logo="https://i.imgur.com/DpxDrki.png" group-title="GAYA HIDUP",AXN 2 ✅
+https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h2yEMNI.png" group-title="GAYA HIDUP",Dens Life & Style ✅
+https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZ00gTc.png" group-title="GAYA HIDUP",Dens Food Channel ✅
+https://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGhZYuZ.png" group-title="GAYA HIDUP",DENS SHOWBIZ ✅
+https://op-group1-densxvisionhd-1.dens.tv/h/h203/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DHcaxV2.png" group-title="GAYA HIDUP",HITS NOW 1 ✅
+https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DHcaxV2.png" group-title="GAYA HIDUP",HITS NOW 2 ✅
+https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2da2JBN.png" group-title="GAYA HIDUP",TVN ✅
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RpNx07x.png" group-title="GAYA HIDUP",ROCK ACTION ✅
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H5XLaEC.png" group-title="GAYA HIDUP",ROCK ENTERTAINMENT ✅
+https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2vg4oux.png" group-title="GAYA HIDUP",TV Okey ✅
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQpOPw3.png" group-title="GAYA HIDUP",LIFETIME ✅
+https://atemeshield1-voe.sysln.id/live/eds/LifetimeHD/mediampd/LifetimeHD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wy15IpS.png" group-title="GAYA HIDUP",TLC INDO ✅
+https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X0RPivu.png" group-title="GAYA HIDUP",KIX HD ✅
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ja7Co8v.png" group-title="GAYA HIDUP", THRILL ✅
+https://cdn10jtedge.indihometv.com/atm/DASH//thrill/manifest.mpd
+
+
 
 ==========
 END | GAYA HIDUP
