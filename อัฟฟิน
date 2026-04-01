@@ -3798,7 +3798,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 ==========
 HBO GROUP| UTAMA
 ==========
-#EXTINF:-1 group-logo="https://i.imgur.com/0GiICTY.jpeg",HBO
+LOGO LAMA https://i.imgur.com/0GiICTY.jpeg
+#EXTINF:-1 group-logo="https://i.imgur.com/hgyPQif.png",HBO
 
 
 ====
