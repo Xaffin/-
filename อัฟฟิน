@@ -6021,9 +6021,8 @@ http://84.17.50.102/hgtv/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="Asian Food Network.id" tvg-name="Asian Food Network.id" tvg-logo="https://i.imgur.com/AUrp3P2.png" group-title="GAYA HIDUP",AFN ✅
+#EXTINF:-1 tvg-id="Asian Food Network.id" tvg-name="Asian Food Network.id" tvg-logo="https://i.imgur.com/AUrp3P2.png" group-title="GAYA HIDUP",AFN✅
 https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mediampd/AFNHD.mpd
-
 
 
 #EXTINF:-1 tvg-name=" tvg-logo="https://i.imgur.com/AUrp3P2.png" group-logo="https://i.imgur.com/AUrp3P2.png" group-title="GAYA HIDUP", This Old House (AG)
