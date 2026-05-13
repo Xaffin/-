@@ -3722,7 +3722,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL",INDOSIAR BOLA  1 ✅
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL",INDOSIAR BOLA  1 ❌
 ##http://aromatv.co:80/Enjy3637/4JFEBAs359/444139
 ##https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/Indosiar.m3u8
 https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Indos.m3u8
@@ -3808,7 +3808,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=indosiar
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL",INDOSIAR BOLA ✅
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL",INDOSIAR BOLA ❌
 ##http://aromatv.co:80/Enjy3637/4JFEBAs359/444139
 ##https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/Indosiar.m3u8
 https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Indos.m3u8
@@ -3819,16 +3819,12 @@ https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Indos.m3u8
 
 
 ----------
-#EXTINF:-1 group-title="NASIONAL" tvg-id="iNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/NTYY97h.jpeg",iNews 1 On (JN)
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
-https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NTYY97h.jpeg" group-title="NASIONAL",INEWS (+)
-https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
+#EXTINF: -1 tvg-logo="https://i.imgur.com/NTYY97h.jpeg" group-title="NASIONAL", INEWS
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8?c
 
 ----------
 
@@ -4029,10 +4025,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
 ---------------------
 
-#EXTINF:-1 tvg-id="--" group-title="NASIONAL" tvg-logo="https://i.imgur.com/0TDfyNw.jpeg", TvOne (SP)
-https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0TDfyNw.jpeg" group-title="NASIONAL", TVONE (SP)
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0TDfyNw.jpeg" group-title="NASIONAL", TVONE (HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -4270,14 +4265,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 
 ANIPLUS COVER https://i.imgur.com/X3M5t4B.jpeg
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
-#EXTINF:-1 tvg-id="Aniplus.id" tvg-name="ID: AniPlus" tvg-logo="https://i.imgur.com/X3M5t4B.jpeg" group-title="ANAK",ANIPLUS
-https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest.mpd
-#https://slive.mana2.my/AniPlus/index.mpd
-#https://cdn10jtedge.indihometv.com/atm/DASH/aniplus/manifest.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
@@ -4370,26 +4357,11 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci8yLzQwMjhjNjg1NmMzZGIyY2MwMTZjZGMzMmViMGM0MzljL21hbmlmZXN0Lm1wZA==&code=777
 
 
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="FunPlanet.id" tvg-name="Fun Planet" tvg-logo="https://i.imgur.com/6cGSc3e.jpeg" group-title="ANAK", FunPlanet 
-#https://cdn11jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
-#https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
-
+FUN PLANET COVER : https://i.imgur.com/6cGSc3e.jpeg"
 
 MY KIDS COVER https://i.imgur.com/vdL9Wa6.jpeg
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ANAK" tvg-logo="https://i.imgur.com/vdL9Wa6.jpeg",My Kidz
-https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecd651d0872c46d6b75a902f3b796e6b:3915b032de12140475d2696ae734cf58
@@ -4724,10 +4696,7 @@ AXN GAYA HIDUP COVER https://i.imgur.com/KWdRJGm.jpeg
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://i.imgur.com/Suy99cF.jpeg" group-title="FILM",AXN 2
-https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
+
 
 
 tvg-logo="https://i.imgur.com/Suy99cF.jpeg" group-title="FILM",AXN 2 COVER
@@ -4763,19 +4732,12 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/in
 #EXTINF:-1 tvg-id="CCM.hk" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/byz5X8l.jpeg" group-title="FILM",Celestial Classic
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
 
-#EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://i.imgur.com/GOJiQSM.jpeg" group-title="FILM",FLIK
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
-https://cdn08jtedge.indihometv.com/dassdvr/130/flik/manifest.mpd
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd
 
 
 ======>>>20/3/2025<<<=========
 GALAXY COVER https://i.imgur.com/STbf9qL.jpeg
 GALAXY PREMIUM COVER https://i.imgur.com/H4XmjZG.jpeg
+FLIK COVER https://i.imgur.com/GOJiQSM.jpeg
 ============
 
 #EXTINF:-1 group-title="FILM" tvg-id="GALAXY" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xmlG" tvg-logo="ttps://i.imgur.com/STbf9qL.jpeg",Galaxy (AG)
@@ -4852,18 +4814,16 @@ https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index
 https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 ==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ffr53aW.jpeg" group-title="FILM"tvg-id="KIX.d" tvg-name="KIX HD", KIX HD
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
+KIX HD https://i.imgur.com/ffr53aW.jpeg
 
-#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/kSNGK5D.jpeg", THRILL
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH//thrill/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX" tvg-logo="https://i.imgur.com/ffr53aW.jpeg" group-title="FILM",KIX HD
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
+https://fta2-cdn-flr.visionplus.id/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4929,12 +4889,8 @@ http://203.77.246.58:4500/udp/239.1.5.18:5000
 https://cdn10jtedge.indihometv.com/atm/DASH//thrill/manifest.mpd
 
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=70d0197a8aca42589cf5df6daa576d86:ebd47832fd7251a09e3cc8eb36790ad5
-#EXTINF:-1 tvg-id="Z Bioskop.id" tvg-name="Z Bioskop" tvg-logo="https://i.imgur.com/UmbvKYp.jpeg" group-title="FILM",Z BIOSKOP
-https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mediampd/ZeeBioskop.mpd
 
+Z BIOSKO COVER https://i.imgur.com/UmbvKYp.jpeg
 
 ================
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4966,9 +4922,6 @@ https://fta1-cdn-flr.visionplus.id/out/v1/6dc5412d26ea4e65961c825d866f2a34/index
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
 #https://atemecdnbalancer-voe.sysln.id/live/eds/TvNHD/mpd/TvNHD.mpd
 
-#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/IicKfBI.jpeg",TVN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-TVN/playlist.m3u8
 ===========================================KOREAN NON SUB | 23/1/2025 =========================================================
 #EXTINF:-1 group-logo="https://i.imgur.com/e8w10pk.jpeg",DUNIA | KOREA NON SUB
 ======================
@@ -6271,10 +6224,7 @@ COVER 4k TRAVEL https://i.imgur.com/w9XdsHn.jpeg
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://i.imgur.com/DpxDrki.png" group-title="GAYA HIDUP",AXN 2
-https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
+
 
 =======
 
@@ -6613,29 +6563,19 @@ EDT
 
 
 
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c4190749d6f4b51bde2df71715e843b:9dfc9803c0fdbb1cd6df2188a6f29064
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="LoveNature" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/A4jOROs.jpeg" group-title="PENGETAHUAN",Love Nature (SD)
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A4jOROs.jpeg" group-title="PENGETAHUAN",Love Nature (HD)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8b878569bb12450aa445e43b705109be:33183c9de39dafd7c9310081f97b4825
-https://atemecdnbalancer-voe.sysln.id/live/eds/LoveNatureHD/mediampd/LoveNatureHD.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A4jOROs.jpeg" group-title="PENGETAHUAN",Love Nature us
-https://bamus-lovenature-lg.amagi.tv/720p-cc/index.m3u8
-
-#EXTINF:-1 tvg-id="LoveNature.ca" group-title="PENGETAHUAN" tvg-id="LoveNature.ca" tvg-logo="https://i.imgur.com/A4jOROs.jpeg",LOVE NATURE (US)
+#EXTINF:-1 tvg-id="LoveNature.ca" group-title="PENGETAHUAN" tvg-id="LoveNature.ca" tvg-logo="https://i.imgur.com/A4jOROs.jpeg",LOVE NATURE (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c4190749d6f4b51bde2df71715e843b:9dfc9803c0fdbb1cd6df2188a6f29064
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
+
+#EXTINF:-1 tvg-id="love nature [105]" tvg-logo="https://i.ibb.co.com/d0MtwSDs/IMG-20250510-105650.png" group-title="KNOWLEDGE",LOVE NATURE (2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c4190749d6f4b51bde2df71715e843b:9dfc9803c0fdbb1cd6df2188a6f29064
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
 
 
@@ -8226,8 +8166,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mediampd/CNNIntHD.mpd
 #EXTINF:-1 tvg-id="" tvg-name="CNBC INDONESIA" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="BERITA",CNBC INDONESIA
 http://iptv.kilas7.com:80/kaukia/asdfrewq/13
 
-#EXTINF:-1 tvg-id="SindoNews.id" group-title="NASIONAL"  tvg-logo="https://i.imgur.com/5iu6wvo.jpeg",SINDONEWS
-https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
+
+SINDONEWS COVER : https://i.imgur.com/5iu6wvo.jpeg
+
 ========================
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
