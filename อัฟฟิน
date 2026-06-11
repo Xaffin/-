@@ -8661,6 +8661,11 @@ http://103.58.160.157:8278/720-TVRISPORT/playlist.m3u8
 https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
 https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",PTV Sports
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+https://cdn1.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=nqQiCKYrHYKp1TdrlRWaLw&expires=1781199624
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",⚽PTV Sports 1
 https://tvsen5.aynaott.com/PtvSports/index.m3u8
 
