@@ -8548,6 +8548,11 @@ http://185.246.209.113:80/TSN5HD/index.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 1 (TRT 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vI113x2.jpegk" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 1 (TUDN)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
