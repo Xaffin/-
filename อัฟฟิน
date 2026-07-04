@@ -8566,6 +8566,11 @@ https://tencent-css.byteplaycdn.com/975b368bdfff1e1663c23ac92af4d008/6A49D4DC/Co
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 http://114.130.57.233:8080/unitedsports-bdixbd.net/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
+#EXTINF:-1 group-title="BOLA | PIALA DUNIA 2026" tvg-logo="https://i.imgur.com/vI113x2.jpeg",🆕⚽✅ LIVE 0  Fox One
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd
+
 #EXTINF:-1 tvg-id="TSN1 HD.ca" group-title="BOLA | PIALA DUNIA 2026" tvg-logo="https://i.imgur.com/vI113x2.jpeg",🆕⚽✅ LIVE 0  TSN 1 🇨🇦
 https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/tsn1.m3u8
 
