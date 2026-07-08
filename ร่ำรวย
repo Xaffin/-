@@ -4946,6 +4946,38 @@ https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGN
 ===========================================JEPANG NON SUB | 23/1/2025 =========================================================
 #EXTINF:-1 group-logo="https://i.imgur.com/livnmIp.jpeg",DUNIA | JEPANG NON SUB
 
+
+
+
+
+
+=================================================================================================================================
+#EXTINF:-1 tvg-id="auto.nhk.world.premium" tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="DUNIA | JEPANG NON SUB",NHK World Premium (🆕✅)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/85b02e02587747058c1940af6aa3d0fa/index.mpd|license_type=org.w3.clearkey&license_key=2f699274d40f479d89804912c134830d:352d8c910649b4d332047cf2833bb43f&User-Agent=referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="auto.nhk.world.japan" tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="DUNIA | JEPANG NON SUB",NHK WORLD JAPAN (🆕✅)
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTVLCOPT:http-referrer=http://japan.cgntv.net/HD_player_jp.html
+#EXTINF:-1 tvg-id="CGNTVJapan.jp@SD" tvg-logo="https://i.imgur.com/hgyPQif.png" http-referrer="http://japan.cgntv.net/HD_player_jp.html" group-title="DUNIA | JEPANG NON SUB",CGNTV Japan (1080p) (🆕✅)
+https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
+#EXTINF:-1 tvg-id="GSTV.jp@SD" tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="DUNIA | JEPANG NON SUB",GSTV (720p) (🆕✅)
+https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
+#EXTINF:-1 tvg-id="JOAXDTV.jp@SD" tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="DUNIA | JEPANG NON SUB",JOAX-DTV (🆕✅)
+https://ntv5.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 tvg-id="JOCXDTV.jp@SD" tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="DUNIA | JEPANG NON SUB",JOCX-DTV (🆕✅)
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-id="JOEXDTV.jp@SD" tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="DUNIA | JEPANG NON SUB",JOEX-DTV (540p) (🆕✅)
+https://tvasahi.mov3.co/hls/tvasahi.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="MNBWorld.mn@SD" tvg-logo="https://i.imgur.com/hgyPQif.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="DUNIA | JEPANG NON SUB",MNB World (1080p) (🆕✅)
+https://cdn4.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd
+#EXTINF:-1 tvg-id="QVC.jp@SD" tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="DUNIA | JEPANG NON SUB",QVC (1080p) (🆕✅)
+https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
+#EXTINF:-1 tvg-id="Weathernews.jp@SD" tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="DUNIA | JEPANG NON SUB",Weathernews (720p) (🆕✅)
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+
+
+=================================================================================================================================
+
 #EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg", NHK WORLD
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
