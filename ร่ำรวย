@@ -4607,14 +4607,13 @@ NEW 4/5/2025
 ============https://i.imgur.com/Suy99cF.jpeg
 AXN GAYA HIDUP COVER https://i.imgur.com/KWdRJGm.jpeg
 
-
+#EXTINF:-1 tvg-id="AXN.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/Suy99cF.jpeg" group-title="FILM",🆕 AXN 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://i.imgur.com/Suy99cF.jpeg" group-title="FILM",AXN 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
-https://fta3-cdn-flr.visionplus.id/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
+
 
 
 
@@ -6031,13 +6030,14 @@ tvg-logo="https://i.imgur.com/WKctpvd.png",Arirang
 =====EDT [21/11/2024]
 
 
+
+#EXTINF:-1 tvg-id="AXN.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/DpxDrki.png" group-title="GAYA HIDUP",🆕AXN 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://i.imgur.com/DpxDrki.png" group-title="GAYA HIDUP",AXN 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
-https://fta3-cdn-flr.visionplus.id/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
+
 
 
 
