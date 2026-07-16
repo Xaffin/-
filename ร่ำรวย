@@ -3874,6 +3874,9 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://i.imgur.com/WSnhDLn.jpeg" group-title="NASIONAL",🆕 TRANS 7 HD 1️⃣
 http://iptv.kilas7.com:80/live/kaukia/asdfrewq/4.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WSnhDLn.jpeg" group-title="NASIONAL",🆕 TRANS 7 HD 2
+http://119.82.250.109:8080/nl.m3u8?id=1002
+
 vision
 
 ===========
@@ -6229,7 +6232,7 @@ https://mob.webtvstream.bhtelecom.ba/hls15/viasat_nature.mpd?n=276ceb87b528e1ce0
 #EXTINF:-1 tvg-chno="100" tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic" tvg-logo="https://i.imgur.com/z2c3zHp.jpeg" group-title="PENGETAHUAN",National Geographic
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z2c3zHp.jpeg" group-title="PENGETAHUAN",natgeowild HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z2c3zHp.jpeg" group-title="PENGETAHUAN",natgeowild HD ❌(UNDER MAINTENANCE)
 http://84.17.50.102/natgeowild/index.m3u8
 
 
@@ -6255,11 +6258,9 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 
 ================>>>19/3/2025<==================
 
-#EXTINF:-1 tvg-id="BBCEarth.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/AnAoUca.jpeg" group-title="PENGETAHUAN",BBC Earth 1 ON (JN)
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5709bc59805c4f23b000306efea48438:1772cf06c2f5dd3980a3245cd31fd356
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="BBC.Earth.id" tvg-name="BBC Earth" tvg-logo="https://i.imgur.com/AnAoUca.jpeg" group-title="PENGETAHUAN",BBC EARTH (FEED)
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 
 =============https://i.imgur.com/Apt76JU.jpeg"
 
@@ -6268,7 +6269,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/ind
 #KODIPROP:inputstream.adaptive.license_key=ce73b28200934af786104ce175d0dc45:b3a7b83221ed0d8fe18b8fcf92b5861a
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="CrimePlusInvestigation.id" tvg-name="Crime Investigation" tvg-logo="https://i.imgur.com/Apt76JU.jpeg" group-title="PENGETAHUAN",CRIME INVESTIGATION
+#EXTINF:-1 tvg-id="CrimePlusInvestigation.id" tvg-name="Crime Investigation" tvg-logo="https://i.imgur.com/Apt76JU.jpeg" group-title="PENGETAHUAN",CRIME INVESTIGATION ❌(UNDER MAINTENANCE)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
 
 
@@ -6298,17 +6299,8 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 
 ====
 EDT
-===
-
-
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id=" tvg-url="https://www.bevy.be/bevyfiles/MALAYSIApremium2.xml" tvg-logo=" https://i.imgur.com/eTS7oLc.jpeg" group-title="PENGETAHUAN",Dens Learning & Knowledge
-https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
-
-
+===hp
+DENS LEARNING COVER tvg-logo=" https://i.imgur.com/eTS7oLc.jpeg"
 ======
 EDT
 ======
@@ -6329,24 +6321,8 @@ EDT
 
 ====
 
-
-
-#EXTINF:-1 tvg-id="LoveNature.ca" group-title="PENGETAHUAN" tvg-id="LoveNature.ca" tvg-logo="https://i.imgur.com/A4jOROs.jpeg",LOVE NATURE (1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c4190749d6f4b51bde2df71715e843b:9dfc9803c0fdbb1cd6df2188a6f29064
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
-
-#EXTINF:-1 tvg-id="love nature [105]" tvg-logo="https://i.ibb.co.com/d0MtwSDs/IMG-20250510-105650.png" group-title="PENGETAHUAN",LOVE NATURE (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c4190749d6f4b51bde2df71715e843b:9dfc9803c0fdbb1cd6df2188a6f29064
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A4jOROs.jpeg" group-title="PENGETAHUAN",🆕Love Nature (167)
+http://157.15.187.3:25092/hls/75/75.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
