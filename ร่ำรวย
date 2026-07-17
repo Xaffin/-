@@ -4467,11 +4467,29 @@ http://157.15.187.3:25092/hls/92/92.m3u8
 http://157.15.187.3:25092/hls/34/34.m3u8
 
 
-#EXTINF:-1 tvg-id="Warner TV HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://i.imgur.com/kSNGK5D.jpegg" group-title="FILM",🆕 Warner TV 
+#EXTINF:-1 tvg-id="Warner TV HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://i.imgur.com/kSNGK5D.jpeg" group-title="FILM",🆕 Warner TV 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdnbal1.indihometv.com/atm/DASH/warner/warner-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.sg@SD" group-title="FILM" tvg-logo="https://i.imgur.com/kSNGK5D.jpeg",🆕Crime Investigation (167)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce73b28200934af786104ce175d0dc45:b3a7b83221ed0d8fe18b8fcf92b5861a
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
+
+#EXTINF:-1 tvg-id="ROCKAction.sg@SD" group-title="FILM" tvg-logo="https://i.imgur.com/RpNx07x.png",🆕ROCK Action(167)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
+#EXTINF:-1 tvg-id="ROCKAction.sg@SD" group-title="FILM" tvg-logo="https://i.imgur.com/RpNx07x.png",🆕ROCK Action (167)
+https://cdnbal1.indihometv.com/atm/DASH/ROCK_ACTION/ROCK_ACTION-avc1_2500000=7-3277707030000000.mpd
+
+
 
 
 
@@ -5851,6 +5869,13 @@ COVER 4k TRAVEL https://i.imgur.com/w9XdsHn.jpeg
 ==========--crime investigation logo https://i.imgur.com/EVYrgDP.jpeg
 AFN https://i.imgur.com/vFXFKJy.png
 
+#EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.sg@SD" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/EVYrgDP.jpeg",Crime Investigation
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce73b28200934af786104ce175d0dc45:b3a7b83221ed0d8fe18b8fcf92b5861a
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
+
 
 === INI VERSI 2nya ====
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AUrp3P2.png" group-title="GAYA HIDUP", HGTV 
@@ -5892,6 +5917,13 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h208/index.m3u8
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
 
 Vision prime https://i.imgur.com/J1vItCX.png
+
+#EXTINF:-1 tvg-id="VisionPrime.id@SD" group-title="GAYA HIDUP" tvg-logo="https://i.imgur.com/J1vItCX.png",Vision Prime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
+https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 
 #EXTINF:-1 tvg-id="Entertainment - [Channel 72].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/cJdmpvm.jpeg" group-title="GAYA HIDUP",ENTERTAINMENT
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -6007,6 +6039,15 @@ rock entertaiment https://i.imgur.com/H5XLaEC.png
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
 
+#EXTINF:-1 tvg-id="ROCKAction.sg@SD" group-title="GAYA HIDUP" tvg-logo="https://i.imgur.com/RpNx07x.png",🆕ROCK Action(167)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
+#EXTINF:-1 tvg-id="ROCKAction.sg@SD" group-title="GAYA HIDUP" tvg-logo="https://i.imgur.com/RpNx07x.png",🆕ROCK Action (167)
+https://cdnbal1.indihometv.com/atm/DASH/ROCK_ACTION/ROCK_ACTION-avc1_2500000=7-3277707030000000.mpd
+
 
 
 
@@ -6081,6 +6122,10 @@ PENGETAHUAN
 ===========
 NEW 4/5/2025
 ==========
+
+#EXTINF:-1 tvg-id="DensKnowledge.id@SD" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/qdVMaoN.jpeg",🆕Dens Knowledge (167)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h236/index.m3u8
 
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/qdVMaoN.jpeg", TRAVELXP (AG)
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -6174,12 +6219,11 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 
 =============https://i.imgur.com/Apt76JU.jpeg"
 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.sg@SD" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/Apt76JU.jpeg",🆕Crime Investigation (167)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce73b28200934af786104ce175d0dc45:b3a7b83221ed0d8fe18b8fcf92b5861a
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="CrimePlusInvestigation.id" tvg-name="Crime Investigation" tvg-logo="https://i.imgur.com/Apt76JU.jpeg" group-title="PENGETAHUAN",CRIME INVESTIGATION ❌(UNDER MAINTENANCE)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
 
 
