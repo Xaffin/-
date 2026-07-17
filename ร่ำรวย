@@ -3877,6 +3877,10 @@ http://iptv.kilas7.com:80/live/kaukia/asdfrewq/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WSnhDLn.jpeg" group-title="NASIONAL",🆕 TRANS 7 HD 2
 http://119.82.250.109:8080/nl.m3u8?id=1002
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WSnhDLn.jpeg" group-title=""NASIONAL",🆕TRANS 72️⃣
+http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
+
+
 vision
 
 ===========
