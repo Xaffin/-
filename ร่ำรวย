@@ -6505,7 +6505,7 @@ CHINA
 #EXTINF:-1 group-logo="https://i.imgur.com/x17WfiT.jpeg",DUNIA | CHINA
 
 
-#EXTINF:-1 tvg-name="CELESTIAL MOVIES" tvg-logo="https://i.imgur.com/x17WfiT.jpeg" group-title="DUNIA | CHINA server="SD" event-duration="4",🆕Celestial Movies (227)
+#EXTINF:-1 tvg-name="CELESTIAL MOVIES" tvg-logo="https://i.imgur.com/x17WfiT.jpeg" group-title="DUNIA | CHINA" server="SD" event-duration="4",🆕Celestial Movies (227A)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
