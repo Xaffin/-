@@ -10279,6 +10279,32 @@ EXTINF:-1 group-logo="https://i.imgur.com/XcBE918.jpeg",BOLA | AFC U23 ASIAN CUP
 
 #EXTINF:-1 tvg-id="" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",🔥Chelsea vs Juventus (Golazo Network (720p) (eng5) (English) (Sports) - 720P)
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
+
+#EXTINF:-1 tvg-id="691261" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",🔥Chelsea vs Juventus (IT| SKY SPORT CALCIO UHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4D309E72A6F91909D49A7B9EC685C359
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=691261&extension=ts&play_token=39hgHIbaCG
+#EXTINF:-1 tvg-id="691260" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",🔥Chelsea vs Juventus (IT| SKY SPORT CALCIO 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4D309E72A6F91909D49A7B9EC685C359
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=691260&extension=ts&play_token=IUU58pIeIm
+#EXTINF:-1 tvg-id="691523" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",🔥Chelsea vs Juventus (IT| SKY SPORT CALCIO HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4D309E72A6F91909D49A7B9EC685C359
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=691523&extension=ts&play_token=BYx7GZV49o
+#EXTINF:-1 tvg-id="692417" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",🔥Chelsea vs Juventus (IT| SKY SPORT CALCIO 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4D309E72A6F91909D49A7B9EC685C359
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=692417&extension=ts&play_token=bDUkOh6bEz
+#EXTINF:-1 tvg-id="692416" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",🔥Chelsea vs Juventus (IT| SKY SPORT CALCIO HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4D309E72A6F91909D49A7B9EC685C359
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=692416&extension=ts&play_token=fWtOUXbg0M
 ============5/8/2026
 #EXTINF:-1 tvg-id="429939" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13622.png?ver=58093",🔥K-League All Stars vs Manchester City (US: CBS SPORTS NETWORK HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
@@ -10381,31 +10407,7 @@ http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=910647&e
 #EXTVLCOPT:http-header=Authorization: Bearer 40C942B909938E0A7E455247EC766182
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=45268&extension=ts&play_token=JIUzb0xEFv
 
-#EXTINF:-1 tvg-id="691261" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",🔥Manchester City vs Internazionale (IT| SKY SPORT CALCIO UHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4D309E72A6F91909D49A7B9EC685C359
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=691261&extension=ts&play_token=39hgHIbaCG
-#EXTINF:-1 tvg-id="691260" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",🔥Manchester City vs Internazionale (IT| SKY SPORT CALCIO 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4D309E72A6F91909D49A7B9EC685C359
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=691260&extension=ts&play_token=IUU58pIeIm
-#EXTINF:-1 tvg-id="691523" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",🔥Manchester City vs Internazionale (IT| SKY SPORT CALCIO HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4D309E72A6F91909D49A7B9EC685C359
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=691523&extension=ts&play_token=BYx7GZV49o
-#EXTINF:-1 tvg-id="692417" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",🔥Manchester City vs Internazionale (IT| SKY SPORT CALCIO 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4D309E72A6F91909D49A7B9EC685C359
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=692417&extension=ts&play_token=bDUkOh6bEz
-#EXTINF:-1 tvg-id="692416" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",🔥Manchester City vs Internazionale (IT| SKY SPORT CALCIO HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4D309E72A6F91909D49A7B9EC685C359
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=692416&extension=ts&play_token=fWtOUXbg0M
+
 
 ===========MATCH 3
 #EXTINF:-1 group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",🔥Manchester United vs Atlético Madrid (MUTV) ✅
