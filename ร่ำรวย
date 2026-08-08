@@ -10200,6 +10200,29 @@ EXTINF:-1 group-logo="https://i.imgur.com/XcBE918.jpeg",BOLA | AFC U23 ASIAN CUP
 ========================5/8/2026
 #EXTINF:-1 group-logo="https://i.imgur.com/uxYdlwY.png",BOLA | FRIENDLY MATCH
 
+
+
+#EXTINF:-1 tvg-id="571246" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://103.176.90.118/picons/logos/logos/ASTRO-SUPERSPORTS-4.png",08/08 06:00 PM | Juventus vs Inter Milan (MY| ASTRO Football)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A9EF0EB82CC01CCC24B56E6F8F2D96FF
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=571246&extension=ts&play_token=MmdySKcDUq
+#EXTINF:-1 tvg-id="1903790" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRMRVL-7j8bNqDafxBwbEgviGR8ybZ0Yk7dP5_kvBBXDTbGDWpJj8Bycxcyw9nhi9cxApg40lOKHWXlbYjjplhEk8tmJJzAsfBE0uGQn7F2II.png",08/08 06:00 PM | Juventus vs Inter Milan (MY| ASTRO FOOTBALL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A9EF0EB82CC01CCC24B56E6F8F2D96FF
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1903790&extension=ts&play_token=1p6C63WECq
+#EXTINF:-1 tvg-id="571246" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://103.176.90.118/picons/logos/logos/ASTRO-SUPERSPORTS-4.png",08/08 06:00 PM | Juventus vs Inter Milan (MY| ASTRO Football)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 84321A6E474ED71836A46D5E711B3425
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=571246&extension=ts&play_token=tGWIoLdhur
+#EXTINF:-1 tvg-id="1903790" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRMRVL-7j8bNqDafxBwbEgviGR8ybZ0Yk7dP5_kvBBXDTbGDWpJj8Bycxcyw9nhi9cxApg40lOKHWXlbYjjplhEk8tmJJzAsfBE0uGQn7F2II.png",08/08 06:00 PM | Juventus vs Inter Milan (MY| ASTRO FOOTBALL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 84321A6E474ED71836A46D5E711B3425
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1903790&extension=ts&play_token=WyFyfAhG50
+
 ======================7/8/2026
 #EXTINF:-1 tvg-id="441311" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/BEIN-SPORTS-3-HD.png",07/08 07:00 PM | Bayern Munich vs Aston Villa (AU: BEIN SPORTS 3 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
