@@ -3914,14 +3914,14 @@ https://beetv.my.id/stream/vd.m3u8?ch=antv
 
 GTV COVER https://i.imgur.com/oZl4oNH.jpeg
 
-#EXTINF:-1 tvg-id="809.trans" tvg-logo="https://i.imgur.com/oZl4oNH.jpeg" ch-number="3",🆕 GTV (🚀8826)
+#EXTINF:-1 tvg-id="809.trans" tvg-logo="https://i.imgur.com/oZl4oNH.jpeg" ch-number="3" group-title="NASIONAL",🆕 GTV (🚀8826)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=3&type=fitnah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
-#EXTINF:-1 tvg-id="MNCTV HD [2]" tvg-logo="https://i.imgur.com/oZl4oNH.jpeg" ch-number="3",🆕 GTV +(🚀8826)
+#EXTINF:-1 tvg-id="MNCTV HD [2]" tvg-logo="https://i.imgur.com/oZl4oNH.jpeg" ch-number="3" group-title="NASIONAL",🆕 GTV +(🚀8826)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #http://beetv.my.id/stream/rctiplus.m3u8?ch=mnctv
@@ -3937,7 +3937,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 ------------------- visio TRANS TV COVER https://i.imgur.com/lKH1wII.jpeg
 
-#EXTINF:-1 tvg-id="800.trans" tvg-logo="https://i.imgur.com/lKH1wII.jpeg" ch-number="6",Trans TV  (🆕 🚀8826 v1)
+#EXTINF:-1 tvg-id="800.trans" tvg-logo="https://i.imgur.com/lKH1wII.jpeg" ch-number="6" group-title="NASIONAL",Trans TV  (🆕 🚀8826 v1)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=6&type=fitnah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
