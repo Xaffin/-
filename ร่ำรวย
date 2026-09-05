@@ -9892,6 +9892,24 @@ BUNDESLIGA
 ============================
 KHUSUS DAZN | https://i.imgur.com/47pEsGf.png
 
+
+=================================================================================================================================================================================
++++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ MATCH SOON🔜  +++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
+==================================================================================================================================================================================
+
+#EXTINF:-1 group-title="BOLA | LALIGA" tvg-id="" #EXTINF:-1 tvg-id="Prima Sport 5" tvg-name="Prima Sport 5" tvg-logo="https://i.imgur.com/bo02yXV.jpeg" group-title="BOLA | BUNDESLIGA",🔥Hamburger SV vs Mainz 05 🔜6 september 20:30  (🔥PRIMA SPORT 3)
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+
+#EXTINF:-1 tvg-id="Prima Sport 5" tvg-name="Prima Sport 5" tvg-logo="https://i.imgur.com/bo02yXV.jpeg" group-title="BOLA | BUNDESLIGA",🔥Eintracht Frankfurt vs Augsburg 🔜6 september 22:30 (🔥PRIMA SPORT 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
+=================================================================================================================================================================================
++++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ Athletic Club vs Atlético Madrid  +++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
+==================================================================================================================================================================================
+
 ==================
 NEW 4/5/2025
 ===========
@@ -10304,7 +10322,12 @@ BOLA | PRO LEAGUE
 
 #EXTINF:-1 group-logo="https://i.imgur.com/ZkZJOyE.jpeg",BOLA | SAUDI PRO LEAGUE
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZkZJOyE.jpeg" group-title="BOLA | SAUDI PRO LEAGUE", 01:00 WIB Al Nassr vs Al Taawon
+#EXTINF:-1 tvg-id="Prima Sport 5" tvg-name="Prima Sport 5" tvg-logo="https://i.imgur.com/ZkZJOyE.jpeg" group-title="BOLA | SAUDI PRO LEAGUE",🔥Al Hilal vs NEOM 🔜8 september 01:00 (🔥PRIMA SPORT 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZkZJOyE.jpeg" group-title="BOLA | SAUDI PRO LEAGUE",SPOTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
