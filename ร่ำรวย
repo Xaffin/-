@@ -8992,6 +8992,12 @@ http://nexusconnects.org:80/play/live.php?mac=00:1A:79:4F:CF:96&stream=373202&ex
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥Newcastle United vs AFC Bournemouth (⭐ Hub Premier 1)
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:B6:5E:9E&stream=2065802&extension=ts&play_token=KI0Dwrrojh
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥Newcastle United vs AFC Bournemouth (FUBO SPORTS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
 
 
 
@@ -9139,6 +9145,13 @@ https://tmaxapp.site/8wirwjs76erftg/skysport8nz74xx7da.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐SKY SPORT 9 NZ (🚀5926)
 ###https://tmaxapp.site/8wirwjs76erftg/skysport9nz.m3u8
 https://tmaxapp.site/8wirwjs76erftg/skysport9nzcsfgc85v8.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.Box.Office.uk" tvg-name="┃UK┃ TNT SPORTS 1 HD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ TNT SPORTS 1 HD (🚀5926)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1174236.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.Box.Office.uk" tvg-name="┃UK┃ TNT SPORTS 2 HD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ TNT SPORTS 2 HD (🚀5926)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1174237.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.Box.Office.uk" tvg-name="┃UK┃ TNT SPORTS 3 HD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ TNT SPORTS 3 HD (🚀5926)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1174238.m3u8
 
 #EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro Premier League" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Astro Premier League (Server 1)
 https://flat-butterfly-3ef0.yusoffrohaidee1.workers.dev/?url=https://183.bozztv.com/giatv/giatv-fake/astropremierleague/chunks.m3u8
