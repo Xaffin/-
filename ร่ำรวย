@@ -9902,6 +9902,13 @@ KHUSUS DAZN | https://i.imgur.com/47pEsGf.png
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 
+#EXTINF:0 tvg-id="BEINSPORT 1 FR" tvg-logo="https://i.imgur.com/bo02yXV.jpeg" group-title="BOLA | BUNDESLIGA",🔥Hamburger SV vs Mainz 05 🔜6 september 20:30 (🔥BEIN SPORT 1 AU)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
 #EXTINF:-1 tvg-id="Prima Sport 5" tvg-name="Prima Sport 5" tvg-logo="https://i.imgur.com/bo02yXV.jpeg" group-title="BOLA | BUNDESLIGA",🔥Eintracht Frankfurt vs Augsburg 🔜6 september 22:30 (🔥PRIMA SPORT 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
