@@ -7858,7 +7858,7 @@ LEAGUE CUP
 
 #EXTINF:-1 group-logo="https://i.imgur.com/vIE9nWJ.jpeg",BOLA | LEAGUE CUP 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="BOLA | LEAGUE CUP " tvg-logo="https://i.imgur.com/vIE9nWJ.jpeg",⭐Ipswich Town vs Arsenal BEIN SPORT 3 AU 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="BOLA | LEAGUE CUP " tvg-logo="https://i.imgur.com/vIE9nWJ.jpeg",⭐Everton vs Wolverhampton Wanderers BEIN SPORT 3 AU 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -7867,7 +7867,7 @@ LEAGUE CUP
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
-#EXTINF:0 group-title="BOLA | LEAGUE CUP " tvg-logo="https://i.imgur.com/vIE9nWJ.jpeg",⭐Liverpool vs Tottenham Hotspur BEIN SPORT 2 AU
+#EXTINF:0 group-title="BOLA | LEAGUE CUP " tvg-logo="https://i.imgur.com/vIE9nWJ.jpeg",⭐Manchester United vs Brighton & Hove Albion Hotspur BEIN SPORT 2 AU
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
