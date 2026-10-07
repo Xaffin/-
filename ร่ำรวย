@@ -5641,6 +5641,25 @@ https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/6
 #EXTVLCOPT:http-origin=https://www.youtube.com
 https://www.youtube.com/watch?v=j1nFeSoqYTo
 
+#EXTINF:-1 tvg-id="kltra_20922c7c-72c5-4f63-af9f-5699937" tvg-name="[ASEAN Club Championship] Buriram United FC vs Borneo FC - Server 1 (HD J [IOS]) • LIVE 19:00" tvg-logo="https://s.q5qo.com/data/96da1333313b6bb62b04bf2bbf3e5d8e.png" group-title="EVENT | FIFA ASEAN CUP 2026" event-duration="4",📌 Buriram United FC vs Borneo FC - Server 1 (HD J [IOS]) • LIVE 19:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://live2.dyrur1.com/live/72597048_1b9125b1020157a63cc559a18790a23b_1080p.m3u8?auth_key=1791388297-0-0-a90137b170b771226a80f25ece4c1362
+#EXTINF:-1 tvg-id="kltra_20922c7c-72c5-4f63-af9f-5699937" tvg-name="[ASEAN Club Championship] Buriram United FC vs Borneo FC - Server 2 (SD V [IOS]) • LIVE 19:00" tvg-logo="https://s.q5qo.com/data/96da1333313b6bb62b04bf2bbf3e5d8e.png" group-title="EVENT | FIFA ASEAN CUP 2026" event-duration="4",📌Buriram United FC vs Borneo FC - Server 2 (SD V [IOS]) • LIVE 19:00
+#EXTVLCOPT:http-referrer=https://player.online909.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://player.online909.com/"}
+https://live.vivo155.com/live/sd-1-4561874.m3u8?txSecret=8933b838b4ac3a5e813774d113e2ebf1&txTime=6AC64612
+#EXTINF:-1 tvg-id="kltra_1a3ecb3c-980e-4e1a-ac3b-5703783" tvg-name="[ASEAN Club Championship] Ratchaburi FC vs Ho Chi Minh City FC - Server 1 (HD J [IOS]) • LIVE 19:00" tvg-logo="https://s.q5qo.com/data/867aff0e2c72ba31d42ba18febf152f.png" group-title="EVENT | FIFA ASEAN CUP 2026" event-duration="4",📌 Ratchaburi FC vs Ho Chi Minh City FC - Server 1 (HD J [IOS]) • LIVE 19:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://live3.dyrur1.com/live/73085404_e4e80f0f5791e167eed324305bbd92ae_1080p.m3u8?auth_key=1791388297-0-0-afa69aa070fbea7f7095bfc2699c2ae6
+#EXTINF:-1 tvg-id="kltra_1a3ecb3c-980e-4e1a-ac3b-5703783" tvg-name="[ASEAN Club Championship] Ratchaburi FC vs Ho Chi Minh City FC - Server 2 (SD V [IOS]) • LIVE 19:00" tvg-logo="https://s.q5qo.com/data/867aff0e2c72ba31d42ba18febf152f.png" group-title="EVENT | FIFA ASEAN CUP 2026" event-duration="4",📌 Ratchaburi FC vs Ho Chi Minh City FC - Server 2 (SD V [IOS]) • LIVE 19:00
+#EXTVLCOPT:http-referrer=https://player.online909.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://player.online909.com/"}
+https://live.vivo155.com/live/sd-1-4638919.m3u8?txSecret=bd5250babb4fb479f0d2a79dd213007f&txTime=6AC6489C
+
 EXTINF:-1 group-title="EVENT | FIFA ASEAN CUP 2026" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg",📌INDONESIA VS THAILAND (FINAL)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
