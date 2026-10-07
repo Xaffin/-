@@ -5633,60 +5633,60 @@ https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/6
 # =====================================================
 # CATEGORY: FIFA ASEAN CUP 2026
 # =====================================================
-#EXTINF:-1 group-logo="https://i.imgur.com/MTI7l2Z.jpeg",EVENT | FIFA ASEAN CUP 2026
+#EXTINF:-1 group-logo="https://i.imgur.com/MTI7l2Z.jpeg",EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP
 
-#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg" tvg-id="MNCNews.id" group-title="EVENT | FIFA ASEAN CUP 2026" event-duration="4",📌INDONESIA VS THAILAND (FINAL)
+#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/tthpegS.jpeg" tvg-id="MNCNews.id" group-title="EVENT | FIFA ASEAN CUP 2026" event-duration="4",📌BURIRAM FC VS BORNEO FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.youtube.com/
 #EXTVLCOPT:http-origin=https://www.youtube.com
-https://www.youtube.com/watch?v=zfEVhQapPz8
+https://www.youtube.com/watch?v=j1nFeSoqYTo
 
-#EXTINF:-1 group-title="EVENT | FIFA ASEAN CUP 2026" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg",📌INDONESIA VS THAILAND (FINAL)
+EXTINF:-1 group-title="EVENT | FIFA ASEAN CUP 2026" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg",📌INDONESIA VS THAILAND (FINAL)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
-#EXTINF:-1 group-title="EVENT | FIFA ASEAN CUP 2026" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg",📌INDONESIA VS THAILAND (FINAL)
+EXTINF:-1 group-title="EVENT | FIFA ASEAN CUP 2026" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg",📌INDONESIA VS THAILAND (FINAL)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
-#EXTINF:-1 group-title="EVENT | FIFA ASEAN CUP 2026" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg", ⚽ INDONESIA vs THAILAND (ML)
+EXTINF:-1 group-title="EVENT | FIFA ASEAN CUP 2026" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg", ⚽ INDONESIA vs THAILAND (ML)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
 
-#EXTINF:-1 group-title="EVENT | FIFA ASEAN CUP 2026" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg",⚽ INDONESIA vs THAILAND (FW)
+EXTINF:-1 group-title="EVENT | FIFA ASEAN CUP 2026" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg",⚽ INDONESIA vs THAILAND (FW)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.55/hls/ekkkkAA.m3u8
 
-#EXTINF:-1 group-title="EVENT | FIFA ASEAN CUP 2026" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg",⚽ INDONESIA vs THAILAND (GAVANG)
+EXTINF:-1 group-title="EVENT | FIFA ASEAN CUP 2026" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg",⚽ INDONESIA vs THAILAND (GAVANG)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gavang33.live
 https://live2.zktsva.app/live/294335.m3u8
 
 
 
-#EXTINF:-1 group-title="EVENT | FIFA ASEAN CUP 2026" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg",⚽ INDONESIA vs THAILAND (COLATV)
+EXTINF:-1 group-title="EVENT | FIFA ASEAN CUP 2026" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg",⚽ INDONESIA vs THAILAND (COLATV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://live05.meung.app/live/07428422_tsc.m3u8
 https://live2.zktsva.app/live/306290.m3u8
 
-#EXTINF:-1 group-title="EVENT | FIFA ASEAN CUP 2026" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg",⚽MALAYSIA VS VIETNAM (FINAL)
+EXTINF:-1 group-title="EVENT | FIFA ASEAN CUP 2026" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg",⚽MALAYSIA VS VIETNAM (FINAL)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
-#EXTINF:-1 group-title="EVENT | FIFA ASEAN CUP 2026" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg",⚽MALAYSIA VS VIETNAM (FINAL)
+EXTINF:-1 group-title="EVENT | FIFA ASEAN CUP 2026" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg",⚽MALAYSIA VS VIETNAM (FINAL)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -5695,7 +5695,7 @@ https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443
 https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
 
 
-#EXTINF:-1tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="EVENT | FIFA ASEAN CUP 2026",  FIFA ASEAN CUP 1
+EXTINF:-1tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="EVENT | FIFA ASEAN CUP 2026",  FIFA ASEAN CUP 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
@@ -5706,7 +5706,7 @@ https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -5715,26 +5715,26 @@ https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443
 https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
 
 
-#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/RGZj2NSX/malay.jpg" group-title="EVENT | FIFA ASEAN CUP 2026",Indosiar
+EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/RGZj2NSX/malay.jpg" group-title="EVENT | FIFA ASEAN CUP 2026",Indosiar
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/timnas2.m3u8
 
-#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/RGZj2NSX/malay.jpg" group-title="EVENT | FIFA ASEAN CUP 2026",Indosiar2
+EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/RGZj2NSX/malay.jpg" group-title="EVENT | FIFA ASEAN CUP 2026",Indosiar2
 http://sansatplus.net:88/02000406070996/1899319467/694349
 
-#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/RGZj2NSX/malay.jpg" group-title="EVENT | FIFA ASEAN CUP 2026",T Sport
+EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/RGZj2NSX/malay.jpg" group-title="EVENT | FIFA ASEAN CUP 2026",T Sport
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/TSport.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="EVENT | FIFA ASEAN CUP 2026",🆕MOJI SPORT
+EXTINF:-1 tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="EVENT | FIFA ASEAN CUP 2026",🆕MOJI SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/62218
 http://013tv.com:8080/F33848/cbd9779b/298550
 http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/62218
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="EVENT | FIFA ASEAN CUP 2026",🆕MOJI SPORT (VD)
+EXTINF:-1 tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="EVENT | FIFA ASEAN CUP 2026",🆕MOJI SPORT (VD)
 https://ogietv.biz.id:443/BuatxX2/AppxMaling/25163.m3u8
 
-#EXTINF:-1tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="EVENT | FIFA ASEAN CUP 2026",🆕MOJI 6
+EXTINF:-1tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="EVENT | FIFA ASEAN CUP 2026",🆕MOJI 6
 https://ogietv.biz.id:443/BuatxX2/AppxMaling/25163.m3u8
 
 # =====================================================
