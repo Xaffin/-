@@ -14066,25 +14066,30 @@ SERIE A
 KHUSUS DAZN | https://i.imgur.com/47pEsGf.png
 ============================
 =================================================================================================================================================================================
-+++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ 💥20:00 Genoa vs Fiorentina +++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ 20:00 Venezia vs Napoli +++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
 ==================================================================================================================================================================================
-#EXTINF:0 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥20:00 Genoa vs Fiorentinan⭐BEIN SPORT 2 AU (🏆AIOS)
+#EXTINF:0 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥20:00 Venezia vs Napoli⭐BEIN SPORT 2 AU (🏆AIOS)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥20:00 Genoa vs Fiorentinan⭐ Матч!Футбол 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥20:00 Venezia vs Napoli⭐ Матч!Футбол 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://stream.mcquack.net/130/index.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2"tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥20:00 Venezia vs Napoli Prima Sport 2(🏆AIOS)
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
 
 
 
 =================================================================================================================================================================================
-+++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ 23:00  internazionale vs Parma +++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ 23:00 Bologna vs Internazionale +++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
 ==================================================================================================================================================================================
-#EXTINF:0 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥23:00  internazionale vs Parma⭐BEIN SPORT 2 AU (🏆AIOS)
+#EXTINF:0 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥23:00 Bologna vs Internazionale⭐BEIN SPORT 2 AU (🏆AIOS)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -14092,27 +14097,32 @@ http://stream.mcquack.net/130/index.m3u8
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥20:00 Genoa vs Fiorentinan⭐ Матч!Футбол 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥23:00 Bologna vs Internazional⭐ Матч!Футбол 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://stream.mcquack.net/130/index.m3u8
 
-#EXTINF:-1 tvg-id="CBS Sports Golazo" tvg-url=" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥23:00  internazionale vs Parma LIVE 1 CBS Sports Golazo✅
+#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2"tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥23:00 Bologna vs Internazional Prima Sport 2(🏆AIOS)
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
+
+#EXTINF:-1 tvg-id="CBS Sports Golazo" tvg-url=" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥23:00 Bologna vs Internazional LIVE 1 CBS Sports Golazo✅
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
-#EXTINF:-1 group-title="BOLA | LALIGA" tvg-id="" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg",💥23:00  internazionale vs Parma⭐ (Golazo Network)
+#EXTINF:-1 group-title="BOLA | LALIGA" tvg-id="" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg",💥23:00 Bologna vs Internazional⭐ (Golazo Network)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
-#EXTINF:-1 group-title="BOLA | LALIGA" tvg-id="" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg",💥23:00  internazionale vs Parma ⭐(Golazo Network)
+#EXTINF:-1 group-title="BOLA | LALIGA" tvg-id="" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg",💥23:00 Bologna vs Internazional ⭐(Golazo Network)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 
 =================================================================================================================================================================================
-+++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ 1:45 Napoli vs Frosinone +++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ 1:45 Roma vs Genoa+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++ START 18/10/2026
 ==================================================================================================================================================================================
-#EXTINF:0 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥1:45 Napoli vs Frosinon⭐BEIN SPORT 2 AU (🏆AIOS)
+#EXTINF:0 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥1:45 Roma vs Genoa⭐BEIN SPORT 2 AU (🏆AIOS)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -14120,13 +14130,28 @@ https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥1:45 Napoli vs Frosinon⭐ Матч!Футбол 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥1:45 Roma vs Genoa⭐ Матч!Футбол 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://stream.mcquack.net/130/index.m3u8
-=================================================================================================================================================================================
-+++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ 17:30 Como vs Roma +++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
+
+#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2"tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥1:45 Roma vs Genoa Prima Sport 2(🏆AIOS)
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
+
+#EXTINF:-1 group-title="BOLA | LALIGA" tvg-id="" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg",💥💥1:45 Roma vs Genoa⭐ (Golazo Network)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+
+#EXTINF:-1 group-title="BOLA | LALIGA" tvg-id="" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg",💥💥1:45 Roma vs Genoa23:00 Bologna vs Internazional ⭐(Golazo Network)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+===================================================================================================================================================================================
++++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ 17:30 Udinese vs Lecce +++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
 ==================================================================================================================================================================================
-#EXTINF:0 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥 17:30 Como vs Roma⭐BEIN SPORT 2 AU (🏆AIOS)
+#EXTINF:0 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥17:30 Udinese vs Lecce ⭐BEIN SPORT 2 AU (🏆AIOS)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -14134,13 +14159,18 @@ http://stream.mcquack.net/130/index.m3u8
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥 17:30 Como vs Roma⭐ Матч!Футбол 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥17:30 Udinese vs Lecce ⭐ Матч!Футбол 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://stream.mcquack.net/130/index.m3u8
-=================================================================================================================================================================================
-+++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ 20:00 Lazio vs Monza +++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
+
+#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2"tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥17:30 Udinese vs Lecce Prima Sport 2(🏆AIOS)
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
+===================================================================================================================================================================================
++++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ 💥20:00 Fiorentina vs Como +++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
 ==================================================================================================================================================================================
-#EXTINF:0 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥20:00 Lazio vs Monza⭐BEIN SPORT 2 AU (🏆AIOS)
+#EXTINF:0 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥20:00 Fiorentina vs Como  ⭐BEIN SPORT 2 AU (🏆AIOS)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -14148,21 +14178,108 @@ http://stream.mcquack.net/130/index.m3u8
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥20:00 Lazio vs Monza⭐ Матч!Футбол 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥20:00 Fiorentina vs Como  ⭐ Матч!Футбол 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://stream.mcquack.net/130/index.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥20:00 Fiorentina vs Como  Prima Sport 2(🏆AIOS)
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥20:00 Fiorentina vs Como Prima Sport 1(🏆AIOS)
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.xn--x2rw19a.space/puk1/usergenrx0cir27aq.m3u8
+
+
+#EXTINF:-1 group-title="BOLA | LALIGA" tvg-id="" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg",💥20:00 Fiorentina vs Como⭐ (Golazo Network)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+
+#EXTINF:-1 group-title="BOLA | LALIGA" tvg-id="" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg",💥20:00 Fiorentina vs Como⭐(Golazo Network)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 =================================================================================================================================================================================
-+++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ 20:00 Lecce vs Bologna +++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ 23:00 Milan vs Atalanta +++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++ EDN 18/10/2026
 ==================================================================================================================================================================================
-=================================================================================================================================================================================
-+++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++23:00 Sassuolo vs Milan +++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
-==================================================================================================================================================================================
-#EXTINF:0 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥23:00Sassuolo vs Milan⭐BEIN SPORT 2 AU (🏆AIOS)
+#EXTINF:0 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥23:00 Milan vs Atalanta⭐BEIN SPORT 2 AU (🏆AIOS)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥23:00 Milan vs Atalanta⭐TNT SPORTS 1(🏆AIOS)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥23:00 Milan vs Atalanta⭐ Матч!Футбол 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://stream.mcquack.net/130/index.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2"tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥23:00 Milan vs Atalanta Prima Sport 2(🏆AIOS)
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
+=================================================================================================================================================================================
++++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ 💥1:45 Juventus vs Lazio +++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++ 19/10/2026
+==================================================================================================================================================================================
+#EXTINF:0 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥1:45 Juventus vs Lazio⭐BEIN SPORT 2 AU (🏆AIOS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥1:45 Juventus vs Lazio⭐TNT SPORTS 1(🏆AIOS)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥1:45 Juventus vs Lazio⭐ Матч!Футбол 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://stream.mcquack.net/130/index.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥1:45 Juventus vs Lazio⭐Prima Sport 3(🏆AIOS)
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
+
+#EXTINF:-1 group-title="BOLA | LALIGA" tvg-id="" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg",💥20:00 Fiorentina vs Como⭐ (Golazo Network)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+
+#EXTINF:-1 group-title="BOLA | LALIGA" tvg-id="" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg",💥20:00 Fiorentina vs Como⭐(Golazo Network)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+=================================================================================================================================================================================
++++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++💥23:30 Monza vs Cagliari+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
+==================================================================================================================================================================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥23:30 Monza vs Cagliari⭐BEIN SPORT 3 AU (🏆AIOS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥23:30 Monza vs Cagliari⭐Prima Sport 3(🏆AIOS)
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥23:00Sassuolo vs Milan⭐ Матч!Футбол 1
@@ -14184,14 +14301,34 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://stream.mcquack.net/130/index.m3u8
 =================================================================================================================================================================================
-+++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++23:30 Atalanta vs Venezia +++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++1:45 Parma vs Torino +++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
 ==================================================================================================================================================================================
-#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥23:30 Atalanta vs Venezia ⭐ Матч!Футбол 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥1:45 Parma vs Torino⭐BEIN SPORT 3 AU (🏆AIOS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥1:45 Parma vs Torino⭐Prima Sport 3(🏆AIOS)
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥1:45 Parma vs Torino⭐ Матч!Футбол 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://stream.mcquack.net/130/index.m3u8
+
 =================================================================================================================================================================================
 +++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ MASTER+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
 ==================================================================================================================================================================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",⭐ Матч!Футбол 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://stream.mcquack.net/130/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",⭐(🔥BEIN SPORTS 1 🇦🇺)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
