@@ -3846,8 +3846,11 @@ FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB 
 TESTED 15/10/26 🎃👻🍬🦇💀🧡 | 🎃👻
 
 ===KIDS
-#EXTINF:-1 tvg-id="NickelodeonPlutoTV.us" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="Animation",Nickelodeon Pluto TV (720p)
+#EXTINF:-1 tvg-id="NickelodeonPlutoTV.us" tvg-logo="https://i.imgur.com/5GYwymQ.jpeg" group-title="ANAK",Nickelodeon Pluto TV (USA)
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
+
+#EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-logo="https://i.imgur.com/aBA4UeI.jpeg" group-title="ANAK",Nick Jr. Pluto TV (USA)
+https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 
 
 --> HBO
