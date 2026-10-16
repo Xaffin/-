@@ -8881,6 +8881,16 @@ BG BARU https://i.imgur.com/3GVkoob.gif
 
 
 VTV COVER https://i.imgur.com/oZl4oNH.jpeg
+
+=================== TRANS DTK
+#EXTINF:-1 tvg-id="Trans7.id@SD" group-title="NASIONAL" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png",Trans7 ((🎃)D)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id@SD" group-title="NASIONAL" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_transtv.png",TransTV((🎃)D)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
+
 =================== TEST BARU
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://i.imgur.com/oZl4oNH.jpeg" group-title="NASIONAL",TRANS TV (🚀LC)
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/34
@@ -8998,6 +9008,30 @@ https://rplus.inisemar.my.id/gtv.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rplus.inisemar.my.id/inews.m3u8
+
+===========TRANS DTK
+=================== TRANS DTK (INI LANCAR)
+#EXTINF:-1 tvg-id="Trans7.id@SD" group-title="NASIONAL" tvg-logo="https://i.imgur.com/KHkGHFc.jpeg",🆕Trans7  DTK(🌓MG16)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id@SD" group-title="NASIONAL" tvg-logo="https://i.imgur.com/ZiEnl6a.jpeg",🆕TransTV DTK (🌓MG16)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
+
+=================== TRANS DTK (MASIH TES)
+
+#EXTINF:-1 tvg-id="Trans TV" tvg-name="Trans TV - Server 3" group-title="NASIONAL" tvg-logo="https://i.imgur.com/ZiEnl6a.jpeg",🆕TransTV DTK v2(🌓MG16)
+#EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
+#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7 - Server 3" group-title="NASIONAL" tvg-logo="https://i.imgur.com/KHkGHFc.jpeg",🆕Trans7  DTK v2(🌓MG16)
+#EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
+#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
 
 
 
