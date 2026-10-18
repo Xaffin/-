@@ -9579,7 +9579,7 @@ DREAMWORKS INDO https://i.imgur.com/rzdTiDx.jpeg
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=67&type=drm&token=apistech
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
 
-#EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAKS", Dreamworks INDO
+#EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK", Dreamworks INDO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=67
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -15024,9 +15024,6 @@ https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Runne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/ResidentEvil.m3u8
 
-#EXTINF:-1 tvg-logo="https://filmyhype.com/wp-content/uploads/2026/07/Resident-Evil-2026.jpg" group-title="VOD TRIAL", RESIDENT EVIL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/ResidentEvil.m3u8
 
 
 
