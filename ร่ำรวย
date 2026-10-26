@@ -10230,6 +10230,10 @@ FILM
 ==========
 #EXTINF:-1 group-logo="https://i.imgur.com/txTPHX4.jpeg",FILM NON SUB
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/txTPHX4.jpeg" group-title="FILM NON SUB",LOTUS MACAO 🇵🇭 (CVG)
+http://136.239.159.20:6610/001/2/ch00000090990000001196/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrUraXHxRLZkchi69sJ%2B10xytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001400&contentid=ch00000000000000001400&videoid=ch00000090990000001196&recommendtype=0&userid=1065444060343&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9JQRNS5OZKWXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+
 #EXTINF:-1 tvg-id="" tvg-name="5tar Max" tvg-logo="https://i.imgur.com/txTPHX4.jpeg" group-title="FILM NON SUB",5tar Max
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/97.ts
 #EXTINF:-1 tvg-id="" tvg-name="ActionMax" tvg-logo="https://i.imgur.com/txTPHX4.jpeg" group-title="FILM NON SUB",ActionMax
