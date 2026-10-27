@@ -9526,8 +9526,22 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=bri2&type=m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://sports.inisemar.my.id/ck.php?id=indosiar
 https://vidsemar.pages.dev/terraluna3/205.mpd
 
-#EXTINF:-1 xui-id="5679" tvg-id="Indosiar.id" tvg-name="Indosiar HD" group-title="Indonesia" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL", INDOSIAR  (🚀V1)
+#EXTINF:-1 xui-id="5679" tvg-id="Indosiar.id" tvg-name="Indosiar HD" group-title="Indonesia" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL", INDOSIAR  (🚀V3)
 https://xcpro.biz.id:443/play/dYV3B3XWN54ZV-b1bZJcnsM5HwvOUP-b6zZddY2tfdY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" tvg-id="itzplay.id" group-title="NASIONAL", INDOSIAR  (🚀V1)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=9
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" tvg-id="itzplay.id" group-title="NASIONAL", INDOSIAR  (🚀V2)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+#http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
+#https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
+https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
 ==================PIALA PRES==============
 ===========================================
