@@ -10865,10 +10865,21 @@ https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/6
 #EXTVLCOPT:http-origin=https://www.youtube.com
 https://www.youtube.com/watch?v=4DKagYj3e9Y
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4",📌PERSIB BANDUNG VS MELBOURNE VICTORY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4",📌PERSIB BANDUNG VS MELBOURNE VICTORY 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel2.m3u8
+
+#EXTINF:-1 tvg-id="rbtv-4479806" tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4",📌PERSIB BANDUNG VS MELBOURNE VICTORY 3
+#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://rbtv-resolver.xr3ed-edge.workers.dev/live/AEM0EMf4NBKQqf0zLBMkbrj_h1ucL_OhHM79IHti7iJz7MuM6A.m3u8?s=0&proxy_seg=1
+
+#EXTINF:-1 tvg-id="rbtv-4479806"  tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4",📌PERSIB BANDUNG VS MELBOURNE VICTORY 4
+#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://rbtv-resolver.xr3ed-edge.workers.dev/live/rGIPusFrP4Q4r96Ctn6W8kiiq-ePnDkikvKsqD607lC2jKwQ1A.m3u8?s=0&proxy_seg=1
+
 
 
 
