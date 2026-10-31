@@ -15199,7 +15199,16 @@ NASIONAL,GAYAHIDUP,HBO,KUALIFIKASI PIALA DUNIA
 VOD LOKAL-VOD LOKAL-VOD LOKAL-VOD LOKAL-VOD LOKAL-VOD LOKAL-VOD LOKAL-VOD LOKAL-VOD LOKAL-VOD LOKAL-VOD LOKAL-VOD LOKAL-VOD LOKAL-VOD LOKAL
 ===============================================================VOD LOKAL====================================================================
 
-#EXTINF:-1 group-logo="-",VOD LOKAL
+#EXTINF:-1 group-logo="https://i.imgur.com/bcnnHvI.jpeg",VOD LOKAL
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kY2XUULjXPo/maxresdefault.jpg" group-title="VOD LOKAL", CERITA LILA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VceritaLila.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/J9cT-k1JpvI/maxresdefault.jpg" group-title="VOD LOKAL", KUYANK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://s12-t.97bf1.com/hls/2DEJ9uBzLsojxEduXAe5k7uoeAk4BVU5/index_1920x1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/r1vFLhQ-bNY/maxresdefault.jpg" group-title="VOD LOKAL", KHADAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
