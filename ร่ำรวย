@@ -11909,6 +11909,42 @@ https://rbtv-resolver.xr3ed-edge.workers.dev/live/AWI_aDzszFxpiMXoB_KYKRVloYvGay
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
 https://rbtv-resolver.xr3ed-edge.workers.dev/live/Wzzb9Q71fnyXCLWS_PA82BwQqTcipznoV3dApm7rulvd9mRWDw.m3u8?s=0&proxy_seg=1
 
+#EXTINF:-1 tvg-id="event3-1022230" tvg-name="[S1] [IDN Super League] Arema vs Bali United" tvg-logo="https://raw.githubusercontent.com/xr3ed/xr3ed-tv/main/assets/sports/sports.png" group-title="BOLA | BRI LIGA 1",[S1] [IDN Super League] Arema vs Bali United
+#EXTVLCOPT:http-referrer=https://player.787200.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36", "Referer": "https://player.787200.com/"}
+https://pulltx.cqsycw.com/live/sd-6MxiKavp5mCGD2XPfL.m3u8?txSecret=4f08f26865877d99fbee0988efe608c1&txTime=6AEAF578|Referer=https://player.787200.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="event3-1022230" tvg-name="[S2] [IDN Super League] Arema vs Bali United" tvg-logo="https://raw.githubusercontent.com/xr3ed/xr3ed-tv/main/assets/sports/sports.png" group-title="BOLA | BRI LIGA 1",[S2] [IDN Super League] Arema vs Bali United
+#EXTVLCOPT:http-referrer=https://player.787200.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36", "Referer": "https://player.787200.com/"}
+https://pulltx.cqsycw.com/live/202_5687835_1.m3u8?txSecret=6c14d8e36ceb18a85bfbabbc66b13184&txTime=6AEAF578|Referer=https://player.787200.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="event3-1022230" tvg-name="[S3] [IDN Super League] Arema vs Bali United" tvg-logo="https://raw.githubusercontent.com/xr3ed/xr3ed-tv/main/assets/sports/sports.png" group-title="BOLA | BRI LIGA 1",[S3] [IDN Super League] Arema vs Bali United
+#EXTVLCOPT:http-referrer=https://player.787200.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36", "Referer": "https://player.787200.com/"}
+https://live.vivo155.com/live/sd-1-4614401.m3u8?txSecret=eab2ffc1c413bdcc0b824b222eba1056&txTime=6AE5C4E7|Referer=https://player.787200.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="event3-8717882" tvg-name="[S1] [IDN Super League] PSM Makassar vs Madura United" tvg-logo="https://raw.githubusercontent.com/xr3ed/xr3ed-tv/main/assets/sports/sports.png" group-title="BOLA | BRI LIGA 1",[S1] [IDN Super League] PSM Makassar vs Madura United
+#EXTVLCOPT:http-referrer=https://player.787200.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36", "Referer": "https://player.787200.com/"}
+https://pulltx.cqsycw.com/live/sd-6MxiKavp5snhpU1982.m3u8?txSecret=f2b9f1b4337901482764dab203dd4173&txTime=6AEAF578|Referer=https://player.787200.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="event3-8717882" tvg-name="[S2] [IDN Super League] PSM Makassar vs Madura United" tvg-logo="https://raw.githubusercontent.com/xr3ed/xr3ed-tv/main/assets/sports/sports.png" group-title="BOLA | BRI LIGA 1",[S2] [IDN Super League] PSM Makassar vs Madura United
+#EXTVLCOPT:http-referrer=https://player.787200.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36", "Referer": "https://player.787200.com/"}
+https://pulltx.cqsycw.com/live/202_5687834_1.m3u8?txSecret=5b3f0620038121ad38792192cdda3975&txTime=6AEAF578|Referer=https://player.787200.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="event3-8717882" tvg-name="[S3] [IDN Super League] PSM Makassar vs Madura United" tvg-logo="https://raw.githubusercontent.com/xr3ed/xr3ed-tv/main/assets/sports/sports.png" group-title="BOLA | BRI LIGA 1",[S3] [IDN Super League] PSM Makassar vs Madura United
+#EXTVLCOPT:http-referrer=https://player.787200.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36", "Referer": "https://player.787200.com/"}
+https://live.vivo155.com/live/sd-1-4614402.m3u8?txSecret=44f8f2a0e0026500b56ea6336fab7b68&txTime=6AE5C4E7|Referer=https://player.787200.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+
 
 
 =====>>>25/3/2025<<<====
