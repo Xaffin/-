@@ -4066,6 +4066,11 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="GBBB1000005IO" tvg-name="REAL WILD" tvg-logo="https://iili.io/JpsBB8Q.jpg" group-title="PENGETAHUAN", REAL WILD (ENG SUB)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#EXTINF:-1 tvg-name="Sin Po TV" tvg-id="SinPOTV.id" tvg-logo="https://i.imgur.com/dNXEJc6.png" group-title="NASIONAL", SINPO TV (NDA)
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=19046
+
 
 ============================================================================================
 FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB | 15/10/2026 | NASIONAL
