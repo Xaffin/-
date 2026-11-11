@@ -7849,56 +7849,23 @@ halaman tidak tersedia
 =======================================================================================
 (🚀24926)(🚀24926)(🚀24926) | NASIONAL VERSI HARI INI |  (🚀24926)(🚀24926)(🚀24926)  ➡️🎬⬅️
 =======================================================================================
-#EXTINF:-1 group-title="NASIONAL;ANAK" tvg-logo="https://i.imgur.com/oZl4oNH.jpeg",🎬VTV⬅️
+#EXTINF:-1 group-title="NASIONAL;ANAK" tvg-logo="https://i.imgur.com/oZl4oNH.jpeg",VTV
 https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-id="Warner TV HD" tvg-name="Warner TV HD" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="FILM;GAYA HIDUP",🎬Warner TV (🇮🇩)⬅️
-http://202.150.161.212:5000/live/channel29/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="tvN Movies HD" tvg-name="tvN Movies HD" tvg-logo="https://i.imgur.com/SR1YPbD.jpeg" group-title="DUNIA | KOREA;FILM",🎬tvN Movies(🇮🇩)⬅️
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MDTV" tvg-name="MDTV" tvg-logo="https://i.imgur.com/2I1JVRz.jpeg" group-title="NASIONAL",🎬MDTV⬅️
-http://202.150.161.212:5000/live/channel31/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV5Monde" tvg-name="TV5Monde" tvg-logo="" group-title="BERITA",🎬TV5Monde⬅️
-http://202.150.161.212:5000/live/channel32/playlist.m3u8
-#EXTINF:-1 tvg-id="Arirang TV" tvg-name="Arirang TV"  tvg-logo="" group-title="BERITA;DUNIA | KOREA",🎬Arirang TV⬅️
-http://202.150.161.212:5000/live/channel33/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Knowledge+ HD" tvg-name="Knowledge+ HD" tvg-logo="" group-title="PENGETAHUAN",🎬Knowledge+⬅️
-http://202.150.161.212:5000/live/channel34/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MOJI HD" tvg-name="MOJI HD" tvg-logo="" group-title="NASIONAL",🎬MOJI HD⬅️
-http://202.150.161.212:5000/live/channel39/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Bioskop Indonesia HD" tvg-name="Bioskop Indonesia HD" tvg-logo="" group-title="NASIONAL",🎬Bioskop Indonesia⬅️
-http://202.150.161.212:5000/live/channel35/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTV HD" tvg-name="RTV HD" tvg-logo="" group-title="NASIONAL;ANAK",🎬RTV HD⬅️
-http://202.150.161.212:5000/live/channel23/playlist.m3u8
-
-#EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="" group-title="BERITA",🎬France 24
-http://202.150.161.212:5000/live/channel21/playlist.m3u8
-#EXTINF:-1 tvg-id="NHK World Premium" tvg-name="NHK World Premium" tvg-logo="" group-title="BERITA;DUNIA | JAPAN",🎬NHK World Premium⬅️
-http://202.150.161.212:5000/live/channel22/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="Cnbc Indonesia Channelfeed" tvg-name="Cnbc Indonesia Channelfeed - Server 1" tvg-logo="https://i.imgur.com/yxjrNLR.jpeg" group-title="NASIONAL;BERITA",🎬Cnbc Indonesia ⬅️(CF)
+#EXTINF:-1 tvg-id="Cnbc Indonesia Channelfeed" tvg-name="Cnbc Indonesia Channelfeed - Server 1" tvg-logo="https://i.imgur.com/yxjrNLR.jpeg" group-title="NASIONAL;BERITA",CNBC INDONESIA (CF)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://video.detik.com/
 https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="Cnn Indonesia Channelfeed" tvg-name="Cnn Indonesia Channelfeed - Server 1" tvg-logo="https://i.imgur.com/yxjrNLR.jpeg" group-title="NASIONAL;BERITA",🎬Cnn Indonesia ⬅️ (CF)
+#EXTINF:-1 tvg-id="Cnn Indonesia Channelfeed" tvg-name="Cnn Indonesia Channelfeed - Server 1" tvg-logo="https://i.imgur.com/yxjrNLR.jpeg" group-title="NASIONAL;BERITA",CNN INDONESIA (CF)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://video.detik.com/
 https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yxjrNLR.jpeg" group-title="NASIONAL;BERITA",🎬CNBC Indonesia⬅️
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yxjrNLR.jpeg" group-title="NASIONAL;BERITA",🎬CNBC Indonesia 2⬅️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 http://khano.nng.cloudns.us/live/m3u8/id/ef7e8c7bc86110e.m3u8
 
