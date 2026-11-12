@@ -4299,10 +4299,7 @@ http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4uIKb5jr_E6ic3jYG-lTvq8
 
 
 ===================
-#EXTINF:-1 tvg-id="tvN Movies" tvg-name="tvN Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="FILM",tvN Movies ((🎃))
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
-#EXTINF:-1 tvg-id="tvN Movies" tvg-name="tvN Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="DUNIA | KOREA",tvN Movies((🎃))
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
+
 
 
 
