@@ -13577,6 +13577,41 @@ https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 https://get.perfecttv.net/mutv.mpd
 
 ============================
+#EXTINF:-1 group-logo="https://i.imgur.com/lcD6xye.jpeg",EVENT | SHOPEE CUP 2026
+
+#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/lcD6xye.jpeg" tvg-id="MNCNews.id" group-title="EVENT | SHOPEE CUP 2026" event-duration="4",📌PERSIB BANDUNG VS MELBOURNE VICTORY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.youtube.com/
+#EXTVLCOPT:http-origin=https://www.youtube.com
+https://www.youtube.com/watch?v=UYFVWSaC480
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lcD6xye.jpeg" tvg-id="itzplay.id" group-title="EVENT | SHOPEE CUP 2026L",🔢RCTI (OMM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lcD6xye.jpeg" group-title="EVENT | SHOPEE CUP 2026",🔢GTV (OMM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/gtv/index.m3u8
+
+#EXTINF:-1 xui-id="4" tvg-id="" tvg-name="SCTV" tvg-logo="https://i.imgur.com/lcD6xye.jpeg" group-title="EVENT | SHOPEE CUP 2026",0️⃣ SCTV (🤖SPM)
+http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRsPxWAgyZTvEmHSbE_IUH5A
+#EXTINF:-1 xui-id="5" tvg-id="" tvg-name="RCTI" tvg-logo="https://i.imgur.com/lcD6xye.jpeg" group-title="EVENT | SHOPEE CUP 2026",0️⃣ RCTI (🤖SPM)
+http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRgGwvgBkFz4lqoryvAzEKzA
+#EXTINF:-1 xui-id="6" tvg-id="" tvg-name="MNC TV" tvg-logo="https://i.imgur.com/lcD6xye.jpeg" group-title="EVENT | SHOPEE CUP 2026",0️⃣ MNC TV (🤖SPM)
+http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRrhJF9VPC4X61h7pgJ37q6g
+#EXTINF:-1 xui-id="7" tvg-id="" tvg-name="GTV" tvg-logo="https://i.imgur.com/lcD6xye.jpeg" group-title="EVENT | SHOPEE CUP 2026",0️⃣ GTV (🤖SPM)
+http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRoVSjf2onxUm95pYqUSc5XI
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+EVENT SELESAI-EVENT SELESAI-EVENT SELESAI-EVENT SELESAI-EVENT SELESAI-EVENT SELESAI-EVENT SELESAI
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
 
 #EXTINF:-1 group-logo="https://i.imgur.com/tRY91LJ.jpeg",BOLA | ASEAN CHAMPIONSHIP 2026
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -13602,6 +13637,8 @@ EVENT SELESAI-EVENT SELESAI-EVENT SELESAI-EVENT SELESAI-EVENT SELESAI-EVENT SELE
 DIHAPUS
 +++++++++++++++++++
 #EXTINF:-1 group-logo="https://i.imgur.com/6gTwzHE.png",BOLA | AFC ASIAN CUP 2025
+
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 EVENT SELESAI-EVENT SELESAI-EVENT SELESAI-EVENT SELESAI-EVENT SELESAI-EVENT SELESAI-EVENT SELESAI
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
