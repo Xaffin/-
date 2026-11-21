@@ -4488,6 +4488,29 @@ http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4okghq8b7IxQyl1atKqxrEs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4k7jfUWSeWjhnf2JANHYtas
 
+==================
+#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/dhbuIcw.jpeg",🤡 ID: HBO (CLWN)
+http://013tv.com:8080/F24657/f44540b5/306484
+
+#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/dhbuIcw.jpeg",🤡 ID: HBO 1080 (CLWN)
+http://013tv.com:8080/F24657/f44540b5/197972
+
+#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/kkMv5vL.jpeg",🤡 ID: HBO Family 1080 (CLWN)
+http://013tv.com:8080/F24657/f44540b5/197055
+
+#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/SL2eG04.jpeg",🤡 ID: HBO Hits (CLWN)
+http://013tv.com:8080/F24657/f44540b5/306486
+
+#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/SL2eG04.jpeg",🤡 ID: HBO Hits 1080 (CLWN)
+http://013tv.com:8080/F24657/f44540b5/196480
+
+#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/X4vptVQ.jpeg",🤡 ID: HBO Signature (CLWN)
+http://013tv.com:8080/F24657/f44540b5/306483
+
+#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/nMGp9FR.jpeg",🤡 ID: Cinemax (CLWN)
+http://013tv.com:8080/F24657/f44540b5/197964
+==================
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/apiAKCQ.png" group-title="HBO;FILM", 🥤 HBO COMEDY (🎃👻)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
