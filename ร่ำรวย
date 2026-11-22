@@ -4405,7 +4405,14 @@ http://royaltv.world:25461/live/M8012/3422/149.ts
 http://royaltv.world:25461/live/M8012/3422/14229.ts
 
 
-
+#EXTINF:-1 group-title="ROYALIndonesia" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png" tvg-id="KompasTV.id@SD" ,Kompas TV JJ
+http://royaltv.world:25461/live/M8012/3422/110.ts
+#EXTINF:-1 group-title="ROYALIndonesia" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_inews.png" tvg-id="iNews.id@SD" ,iNews TV JJ
+http://royaltv.world:25461/live/M8012/3422/99.ts
+#EXTINF:-1 group-title="ROYALIndonesia" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg" tvg-id="RCTI.id@SD" ,RCTI JJ
+http://royaltv.world:25461/live/M8012/3422/100.ts
+#EXTINF:-1 group-title="ROYALIndonesia" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png" tvg-id="SCTV.id@SD" ,SCTV JJ
+http://royaltv.world:25461/live/M8012/3422/101.ts
 
 
 
