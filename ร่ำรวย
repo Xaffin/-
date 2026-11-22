@@ -12357,77 +12357,72 @@ ___ INI ENGGA YA---sss
 ==================================================================================================================================================================================
 Manchester City vs Fulham
 
-[SINGLE]
-#EXTINF:-1 tvg-id="TNT 1"tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥19:30  Manchester City vs Fulham ⭐TNT SPORTS 1(🏆AIOS)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
 [MULTI]
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥19:30 Manchester City vs Fulham ⭐ SKY SPORT 8 (🛸)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥21:00 Hull City vs Brighton & Hove Albion ⭐ SKY SPORT 8 (🛸)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=epl3&type=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥22:00 Chelsea vs Leeds United ⭐ SKY SPORT 8 (🛸)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥23:30 Liverpool vs Manchester United ⭐ SKY SPORT 8 (🛸)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=epl3&type=m3u8
 
 [MULTI] [USA NETWORK]
 
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎0️⃣USA Network ( 19:30 Manchester City vs Fulham)
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎0️⃣USA Network ( 21:00 Hull City vs Brighton & Hove Albion)
 https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎1️⃣USA Network ( 19:30 Manchester City vs Fulham)
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎1️⃣USA Network ( 21:00 Hull City vs Brighton & Hove Albion)
 http://pulsetvpro.cc/live/hazel123/hazel123/353.m3u8
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎3️⃣USA Network tv14s.( 19:30 Manchester City vs Fulham)
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎3️⃣USA Network tv14s.( 21:00 Hull City vs Brighton & Hove Albion)
 http://tv14s.xyz:8080/BenA@443/443@6377/10252
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎4️⃣USA Network ( 19:30 Manchester City vs Fulham)
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎4️⃣USA Network (21:00 Hull City vs Brighton & Hove Albion)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/1101/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎5️⃣USA Network  ( 19:30 Manchester City vs Fulham)
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎5️⃣USA Network  ( 21:00 Hull City vs Brighton & Hove Albion)
 http://kwick.cc:80/live/karenaiken45@gmail.com/5945669915/354.m3u8
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎6️⃣USA Network ( 19:30 Manchester City vs Fulham)
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎6️⃣USA Network ( 21:00 Hull City vs Brighton & Hove Albion)
 http://kwick.cc:80/live/karenaiken45@gmail.com/5945669915/353.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎7️⃣USA Network( 19:30 Manchester City vs Fulham)
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎7️⃣USA Network( 21:00 Hull City vs Brighton & Hove Albion)
 http://vraniqi.org/live/G3W5WM0/5F6DN53050EN48R/71325.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎8️⃣USA Network ( 19:30 Manchester City vs Fulham)
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎8️⃣USA Network ( 21:00 Hull City vs Brighton & Hove Albion)
 http://vraniqi.org/live/G3W5WM0/5F6DN53050EN48R/71345.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎9️⃣USA Network  ( 19:30 Manchester City vs Fulham)
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎9️⃣USA Network ( 21:00 Hull City vs Brighton & Hove Albion)
 http://dgda92.com:80/live/RodrigoVivas/BQFVZK8HAc/595712.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎1️⃣0️⃣USA Network  ( 19:30 Manchester City vs Fulham)
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎1️⃣0️⃣USA Network  ( 21:00 Hull City vs Brighton & Hove Albion)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=328966&extension=ts
 
 [MULTI] [USA NETWORK]
 
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎0️⃣USA Network ( 22:00 Tottenham Hotspur vs Ipswich Town)
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎0️⃣USA Network ( 23:30 Liverpool vs Manchester United)
 https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎1️⃣USA Network ( 22:00 Tottenham Hotspur vs Ipswich Town)
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎1️⃣USA Network ( 23:30 Liverpool vs Manchester United)
 http://pulsetvpro.cc/live/hazel123/hazel123/353.m3u8
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎3️⃣USA Network tv14s.( 22:00 Tottenham Hotspur vs Ipswich Town)
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎3️⃣USA Network tv14s.( 23:30 Liverpool vs Manchester United)
 http://tv14s.xyz:8080/BenA@443/443@6377/10252
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎4️⃣USA Network ( 22:00 Tottenham Hotspur vs Ipswich Town)
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎4️⃣USA Network ( 23:30 Liverpool vs Manchester United)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/1101/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎5️⃣USA Network  ( 22:00 Tottenham Hotspur vs Ipswich Town)
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎5️⃣USA Network  ( 23:30 Liverpool vs Manchester United)
 http://kwick.cc:80/live/karenaiken45@gmail.com/5945669915/354.m3u8
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎6️⃣USA Network ( 22:00 Tottenham Hotspur vs Ipswich Town)
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎6️⃣USA Network ( 23:30 Liverpool vs Manchester United)
 http://kwick.cc:80/live/karenaiken45@gmail.com/5945669915/353.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎7️⃣USA Network( 22:00 Tottenham Hotspur vs Ipswich Town)
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎7️⃣USA Network( 23:30 Liverpool vs Manchester United)
 http://vraniqi.org/live/G3W5WM0/5F6DN53050EN48R/71325.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎8️⃣USA Network ( 22:00 Tottenham Hotspur vs Ipswich Town)
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎8️⃣USA Network ( 23:30 Liverpool vs Manchester United)
 http://vraniqi.org/live/G3W5WM0/5F6DN53050EN48R/71345.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎9️⃣USA Network ( 22:00 Tottenham Hotspur vs Ipswich Town)
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎9️⃣USA Network ( 23:30 Liverpool vs Manchester United)
 http://dgda92.com:80/live/RodrigoVivas/BQFVZK8HAc/595712.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎1️⃣0️⃣USA Network  ( 22:00 Tottenham Hotspur vs Ipswich Town)
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎1️⃣0️⃣USA Network  ( 23:30 Liverpool vs Manchester United)
 http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=328966&extension=ts
 
 [MULTI] [star sport select 1]
