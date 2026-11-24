@@ -4334,8 +4334,116 @@ https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=19046
 
 
 ==s==========================================================================================
-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB | 15/10/2026 | NASIONAL
+FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB | 24/10/2026 | NASIONAL
 =============================================================================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IicKfBI.jpeg
+" group-title="DUNIA | KOREA;FILM",╰┈➤TVN (⚡MG24)(SUB INDO)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/tvn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SR1YPbD.jpeg" group-title="DUNIA | KOREA;FILM",╰┈➤TVN MOVIES (⚡MG24)(SUB INDO)
+https://filexott.uk:8443/ZERaQVUzcWl0U1lQdnFqVWtKU3p1ZmxzMXcyOU1LNGpBVjE2amhOemFIRVBkSWFqWGZBM1VVRGxxb3BGVWJEeQ
+
+#EXTINF:-1 tvg-id="49" tvg-logo="https://i.imgur.com/ffr53aW.jpeg" group-title="DUNIA | KOREA;FILM",╰┈➤KIX (⚡MG24)(SUB INDO)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/kix/index.m3u8
+
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="DUNIA | KOREA",╰┈➤KBS WORLD (⚡MG24)(ENG SUB)
+#EXTVLCOPT:http-referrer=https://cinerama.uz/
+https://stream8.cinerama.uz/1448/playlist.m3u8
+http://66.242.170.53/hls/live/temp/index.m3u8
+
+#EXTINF:-1 group-title="DUNIA | KOREA"  tvg-id="cjenm.kr" tvg-logo="" group-title="DUNIA | KOREA",╰┈➤CJ E&M (⚡MG24)(ENG SUB)
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
+
+#EXTINF:-1 group-title="DUNIA | KOREA"  tvg-logo="",╰┈➤EBS 1 (⚡MG24)(NON SUB)
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="DUNIA | KOREA"  tvg-logo="",╰┈➤EBS 2 (⚡MG24)(NON SUB)
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="DUNIA | KOREA"  tvg-logo="",╰┈➤EBS+ 1 (⚡MG24)(NON SUB)
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="DUNIA | KOREA"  tvg-logo="",╰┈➤EBS+ 2 (⚡MG24)(NON SUB)
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+
+
+#EXTINF:-1 group-title="DUNIA | KOREA"  tvg-logo="https://i.imgur.com/yzwtMOC.png",╰┈➤GCN (⚡MG24)(NON SUB)
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="DUNIA | KOREA"  tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png",╰┈➤Korea TV (⚡MG24)(NON SUB)
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="DUNIA | KOREA"  tvg-logo="https://www.abn.co.kr/resources/images/logo.png",╰┈➤ABN TV (⚡MG24)(NON SUB)
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+
+#EXTINF:-1 group-title="DUNIA | KOREA"  tvg-logo="https://i.imgur.com/e8w10pk.jpeg",╰┈➤Arirang TV (⚡MG24)(ENG SUB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/arirang/index.m3u8
+
+====== FILM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Suy99cF.jpeg" group-title="FILM",╰┈➤AXN (⚡MG24)(SUB INDO)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/axn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/byz5X8l.jpeg" group-title="FILM" tvg-id="CCM.hk" tvg-name="CCM",╰┈➤CCM (⚡MG24)(SUB INDO)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/celestialclassic/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/91wxxvj.jpeg" group-title="FILM",╰┈➤CELESTIAL MOVIES (⚡MG24)(SUB INDO)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/celestialmovies/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A58Jd0u.jpeg" group-title="FILM" tvg-id="Hits Movies HD" tvg-name="Hits Movies HD",╰┈➤ HITS MOVIES (⚡MG24)(SUB INDO)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/hitsmovies/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7mZwDie.jpeg" group-title="FILM" tvg-id="Hits Movies HD" tvg-name="Hits Movies HD",╰┈➤HITS NOW (⚡MG24)(SUB INDO)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/hitsnow/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YxDN47W.jpeg" group-title="FILM" tvg-id="Thrill" tvg-name="Thrill",╰┈➤ THRILL (⚡MG24)(SUB INDO)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/thrill/index.m3u8
+
+#EXTINF:-1 tvg-id="Rock Entertainment.Id" tvg-logo="https://i.imgur.com/H5XLaEC.png" group-title="FILM",╰┈➤ROCK ENTERTAINMENT (⚡MG24)(SUB INDO)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/rockent/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RpNx07x.png" group-title="FILM",╰┈➤ROCK ACTION (⚡MG24)(SUB INDO)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/rockaction/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UmbvKYp.jpeg" group-title="FILM" tvg-id="ZeeBioskop.in" tvg-name="Zee Bioskop",╰┈➤ ZEE BIOSKOP (⚡MG24)(SUB INDO)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/zeebioskop/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/STbf9qL.jpeg" group-title="FILM",╰┈➤GALAXY (⚡MG24)(SUB INDO)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/galaxy/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H4XmjZG.jpeg" group-title="FILM",╰┈➤GALAXY PREMIUM (⚡MG24)(SUB INDO)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/galaxyprem/index.m3u8
+
+
+
 PIV
 
 #EXTINF:-1 xui-id="5" tvg-id="" tvg-name="RCTI" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg" group-title="NASIONAL",🦌RCTI (PIV)
